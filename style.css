@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(../../Imagens/moedas.jpg);
+    background-image: url(./moedas.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Segoe UI', sans-serif;
@@ -69,4 +69,5 @@
     .card {
       width: 90vw;
     }
+
   }
